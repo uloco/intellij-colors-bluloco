@@ -3,6 +3,16 @@ intellij-theme-bluloco
 
 The bluloco color scheme for Jetbrains' IDE's 
 
+## Preview
+
+![Java-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/java.png)
+![Php-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/php.png)
+![Python-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/python.png)
+![Ruby-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/ruby.png)
+![Html-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/html.png)
+![Css-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/css.png)
+![Javascript-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/js.png)
+
 
 ## Installation
 
