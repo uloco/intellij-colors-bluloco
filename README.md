@@ -3,17 +3,6 @@ intellij-theme-bluloco
 
 The bluloco color scheme for Jetbrains' IDE's 
 
-## Preview
-
-![Java-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/java.png)
-![Php-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/php.png)
-![Python-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/python.png)
-![Ruby-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/ruby.png)
-![Html-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/html.png)
-![Css-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/css.png)
-![Javascript-Screenshot](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/js.png)
-
-
 ## Installation
 
 1.  Put the `Bluloco.icl` file in the config folder of your Webstorm installation.
@@ -28,3 +17,35 @@ The bluloco color scheme for Jetbrains' IDE's
 
 2. Restart the IDE
 3. Select the new `Bluloco` Theme in `Preferences | Editor | Colors & Fonts`.
+
+## Preview
+
+
+**Java**
+
+![Java](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/java.png)
+
+**Php**
+
+![Php](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/php.png)
+
+**Python**
+
+![Python](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/python.png)
+
+**Ruby**
+
+![Ruby](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/ruby.png)
+
+**Html**
+
+![Html](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/html.png)
+
+**Css**
+
+![Css](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/css.png)
+
+**Javascript**
+
+![Javascript](https://github.com/uloco/intellij-colors-bluloco/blob/master/img/js.png)
+
