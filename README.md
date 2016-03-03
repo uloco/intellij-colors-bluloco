@@ -9,11 +9,11 @@ The bluloco color scheme for Jetbrains' IDE's
 
     Standard paths are the following ones:
 
-    _Linux_:  `~/.Webstorm10/config/colors/`
+    _Linux_:  `~/IntelliJIdea15/config/colors/`
 
-    _Mac_:    `~/Libraries/Preferences/.Webstorm10/config/colors/`
+    _Mac_:    `~/Libraries/Preferences/IntelliJIdea15/config/colors/`
 
-    _Windows_: `%USERPROFILE%/.Webstorm10/config/colors`
+    _Windows_: `%USERPROFILE%/IntelliJIdea15/config/colors`
 
 2. Restart the IDE
 3. Select the new `Bluloco` Theme in `Preferences | Editor | Colors & Fonts`.
